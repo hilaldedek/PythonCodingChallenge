@@ -14,6 +14,4 @@ else:
             result *= int(i)
         counter += 1
         number = str(result)
-
-
-print(counter, " step")
+print(counter, "step")
